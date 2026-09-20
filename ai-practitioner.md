@@ -1,3 +1,5 @@
+# QUESTIONS AI PRACTITIONER EXAM
+
 1. This computes attention weights within the same input sequence to allow elements to attend to each other.
 
 - Self-Attention
@@ -402,4 +404,85 @@
 
 - Algorithmic Accountability Act
 
+102. A framework for determining security considerations for working with or building Generative AI solutions, focusing on areas like Governance & Compliance, Legal & Privacy, and Risk Management.
+
+- GenAI Security Scoping Matrix
+
+103. What are the main components of the ELK Stack?
+
+- Elasticsearch: full-text search and analytics engine / Logstash: data processing pipeline / Kibana: visualization layer for stored data
+
+104. This service allows running SQL queries directly on data stored in Amazon S3.
+
+- Amazon Athena
+
+105. Which method is commonly used to access Amazon Athena?
+
+- AWS Management Console
+
+106. This subset of SQL is used to define schemas using commands like CREATE, ALTER, and DROP.
+
+- Data definition language (DDL)
+
+107. This allows you to save and share queries with other users in Amazon Athena.
+
+- Workgroup
+
+108. This data type in Athena SQL represents a value that can only be true or false.
+
+- boolean
+
+109. This data type in Athena SQL represents a date in ISO format, such as YYYY-MM-DD.
+
+- date
+
+110. This command in Athena SQL is used to create a new table.
+
+- CREATE TABLE
+
+111. This allows tables to be created automatically by crawling data to produce a table schema in Athena.
+
+- AWS Glue crawler
+
+112. This feature allows specifying the format for parsing S3 data files in Athena.
+
+- SerDe (Serialization/Deserialization)
+
+113. This library is used for simple CSV parsing in Athena.
+
+- LazySimpleSerDe
+
+114. This AWS service makes it easy to discover, prepare, move, and integrate data from multiple sources.
+
+- AWS Glue
+
+115. This AWS Glue feature allows you to visually create, run, and monitor ETLs.
+
+- Visual ETL
+
+116. This AWS Glue feature allows you to visually create, run, and monitor ETL jobs.
+
+- AWS Glue Studio
+
+117. This AWS Glue feature allows you to visually prepare your Glue jobs with little to no coding.
+
+- AWS Glue Studio
+
+118. This AWS service makes it easy to store, annotate, and share metadata about data.
+
+- AWS Glue Data Catalog
+
+119. This tool analyzes a targeted data source to determine its schema and generate AWS Glue Data Catalog tables.
+
+- AWS Glue Crawler
+
+120. This AWS service allows you to measure and monitor the quality of your data using machine learning.
+
+- AWS Glue Data Quality
+
+121. This AWS service allows users to clean and normalize data visually without writing any code.
+
+- AWS Glue DataBrew
+
+122. 
 
