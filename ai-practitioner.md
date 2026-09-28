@@ -72,7 +72,7 @@
 
 - Variable injection
 
-19. This process uses labeled data to improve a foundational model for performing specific tasks.
+19.  This process uses labeled data to improve a foundational model for performing specific tasks.
 
 - Fine-Tuning
 
@@ -152,7 +152,7 @@
 
 - Vector Space Model
 
-39. The part of a transformer model that continuously feeds sequences of tokens back to predict the next word.
+39.  (-)
 
 - Token count
 
@@ -484,5 +484,242 @@
 
 - AWS Glue DataBrew
 
-122. 
+122. A machine learning technique to analyze and interpret the context within a body of related text and enable computers to process and understand human language.
 
+- Natural Language Processing (NLP)
+
+123. This type of learning model is inspired by the human brain and solves complex problems using artificial neural networks.
+
+- Deep Learning (DL)
+
+124. What term refers to computer systems that perform tasks typically requiring human intelligence, such as problem-solving, decision-making, and natural language understanding?
+
+- Artificial Intelligence
+
+125. This server enables multiple users to run JupyterLab environments concurrently, catering to group-based data science or research needs.
+
+- JupyterHub
+
+126. This provides a more advanced, flexible interface for Jupyter users, combining notebooks, terminals, text editors, and rich outputs.
+
+- JupyterLab
+
+127. This is the process of breaking down text into words, phrases, or symbols to analyze meaning.
+
+- Tokenization
+
+128. This metric in regression calculates the average squared difference between observed and predicted values.
+
+- Mean Squared Error (MSE)
+
+129. This machine learning process aims to assign input data into one of several predefined categories.
+
+- Classification
+
+130. This is a process of grouping data points based on their similarities and differences without predefined labels.
+
+- Clustering
+
+131. This learning approach uses mostly unlabeled data combined with a small fraction of labeled data.
+
+- Semi-Supervised Learning
+
+132. This type of learning involves training a model that can handle multiple related tasks simultaneously.
+
+- Multi-Task Learning
+
+133. This type of learning is used for real-time decisions, gaming AI, and robot navigation.
+
+- Reinforcement Learning
+
+134. This set of techniques includes bagging, boosting, and stacking to improve model performance when data quality is a concern.
+
+- Ensemble Methods
+
+135. This learning approach is task-driven, using labeled data to make predictions or classify inputs into categories.
+
+- Supervised Learning
+
+136. A technique in unsupervised learning that finds patterns and relationships between variables in a dataset.
+
+- Association
+
+137. This type of learning uses an agent that learns through trial and error within an environment to achieve a specific objective.
+
+- Reinforcement Learning
+
+138. A type of supervised learning algorithm designed to predict continuous outcomes like temperature, stock prices, or sales.
+
+- Regression
+
+139. This type of algorithm finds patterns or relationships between variables, often used in market basket analysis.
+
+- Association Algorithms
+
+140. This is a type of neural network where connections between nodes do not form a cycle.
+
+- Feed Forward Neural Network (FNN)
+
+141. This function in neural networks compares the ground truth to the prediction to determine how well the model performed.
+
+- Loss Function
+
+142. A single neuron model designed for supervised learning of binary classifiers, invented in 1943.
+
+- Perceptron
+
+143. This layer of a basic perceptron serves as the connection point for input data without modifying it.
+
+- Input layer
+
+144. This type of activation function treats any negative value as zero, and is commonly used in neural networks.
+
+- ReLU (Rectified Linear Unit)
+
+145. A function that compares the ground truth to the prediction to determine the error rate in neural networks.
+
+- Loss Function
+
+146. This type of activation function cannot perform backpropagation and is also known as an identity function.
+
+- Linear Activation Function
+
+147. This function returns either a 0 or 1 based on the input value, primarily handling binary classification.
+
+- Binary Step Activation Function
+
+148. This activation function is known for its S-shaped curve and can handle both binary and multi-class classification.
+
+- Sigmoid Activation Function
+
+149. This activation function has a stronger gradient than Sigmoid and outputs values in the range of (-1, 1).
+
+- Tanh Activation Function
+
+150. This activation function sparsely triggers neurons, making it more efficient than Sigmoid and Tanh.
+
+- ReLU Activation Function
+
+151. This variant of ReLU reduces the effect of the dying gradient by allowing a small gradient on the negative axis.
+
+- Leaky ReLU Activation Function
+
+152. This activation function slopes towards -1 on the negative axis and has a linear gradient on the positive axis, leading to faster learning and convergence.
+
+- Exponential Linear Unit (ELU)
+
+153. This activation function was proposed by the Google Brain Team as a replacement for ReLU and is characterized by a smooth transition in its slope.
+
+- Swish Activation Function
+
+154. This activation function selects the maximum value from multiple inputs, acting as a generalization of ReLU and leaky ReLU.
+
+- Maxout Activation Function
+
+155. This activation function calculates the probabilities of each class over all possible classes, ensuring the sum of probabilities is equal to 1.
+
+- Softmax Activation Function
+
+156. This term refers to a set of instructions that can include smaller parts to achieve a specific computational goal.
+
+- Algorithm
+
+157. This process involves training an algorithm with labeled data to develop a model that can make predictions on unseen data.
+
+- Machine Learning Modeling (ML model)
+
+158. This process optimizes a model to improve its performance and accuracy before deployment.
+
+- Hyper-tunning
+
+159. A characteristic of the data that is extracted and prepared for prediction by an ML model.
+
+- Feature
+
+160. The process of feeding input data into a deployed machine learning model to obtain a prediction.
+
+- Inference
+
+161. Variables set manually before model training, controlling how the model learns from data.
+
+- Hyperparameters
+
+162. This tool is used in AWS to provide explainability and detect bias in machine learning models.
+
+- Amazon SageMaker Clarify
+
+163. This is the process of adding meaningful labels to raw data (like images or text) to provide context for machine learning models.
+
+- Data Labeling
+
+164. This process defines a standard approach to data mining, consisting of six phases, including business understanding, data preparation, modeling, and evaluation.
+
+- CRISP-DM (Cross-Industry Standard Process for Data Mining)
+
+165. This constraint in association rules indicates how often the rule has been found to be true in a dataset.
+
+- Confidence
+
+166. This stage in knowledge mining uses AI capabilities like vision, language, speech, decision, and search to enhance content understanding.
+
+- Enrich Stage
+
+167. This discipline in AI quickly learns from vast amounts of information using a combination of intelligent services.
+
+- Knowledge mining
+
+168. The process of transforming and mapping raw data to make it suitable for analytics and other downstream purposes.
+
+- Data Wrangling
+
+169. This is a process used to define and analyze data requirements to support business processes.
+
+- Data Modeling
+
+170. This stage in data analytics involves cleaning and transforming raw data into a structured format.
+
+- Data Cleaning and Transformation
+
+171. A popular programming language used by data scientists to build machine learning models.
+
+- Python
+
+172. The role that uses multi-disciplinary skills in math, statistics, and machine learning to make future predictions.
+
+- Data Scientist
+
+173. This type of dataset is used to fine-tune a model’s hyperparameters without affecting the final evaluation.
+
+- Validation dataset
+
+174. A large collection of structured text used for language analysis.
+
+- Corpus
+
+175. This type of data is measured by the quantity of something rather than its quality.
+
+- Quantitative Data
+
+176. This is a type of model trained on vast amounts of data and can be fine-tuned for specific tasks.
+
+- Foundational Model (FM)
+
+177. This type of model uses transformer architecture to understand and generate human language.
+
+- Large Language Model (LLM)
+
+178. This part of the Transformer architecture is responsible for understanding the input sequence.
+
+- Encoder
+
+179. This process converts input text into a sequence of tokens matching the model's internal vocabulary.
+
+- Tokenization
+
+180. This stage in data analytics involves cleaning and transforming raw data into a structured format.
+
+- Data Cleaning and Transformation
+
+181. This tool in Amazon Bedrock supports the orchestration of complex workflows and includes nodes like Condition, Lambda Function, and Knowledge Base.
+
+- Amazon Bedrock Prompt Flow
